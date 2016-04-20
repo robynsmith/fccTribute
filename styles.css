@@ -1,0 +1,4 @@
+/* This CSS line ensures the image is not too large */
+#img_linus {
+  max-width:30%;
+}
